@@ -32,7 +32,7 @@ const Home = () => {
           // textAlign={"center"}
           margin={"auto"}
         >
-          some bullshit
+          Cyberpunk 2077
         </Heading>
         <Stack
           h={"full"}
@@ -47,9 +47,10 @@ const Home = () => {
             p={["4", "16"]}
             textAlign={"center"}
           >
-            Gaming kro , padhai mt kro, Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Sint, a. khush raho aabad raho gharwalo ki mt suno
-            hawa lehar me udo aur......... gaming kro ~karan 2023
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque quas
+            aut quod nam, eaque possimus rem a cum blanditiis voluptatem culpa
+            reprehenderit fugit excepturi nobis voluptate obcaecati est magnam
+            consequuntur!
           </Text>
         </Stack>
       </Container>
